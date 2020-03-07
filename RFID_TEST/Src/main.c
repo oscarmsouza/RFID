@@ -41,8 +41,7 @@
 /* Private define ------------------------------------------------------------*/
 /* USER CODE BEGIN PD */
 
-#define VERSION			0
-
+#define VERSION			0.0
 #define SLAVE_ADDRESS_LCD 0x4E
 /* USER CODE END PD */
 
